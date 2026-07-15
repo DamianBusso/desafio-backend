@@ -24,7 +24,7 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-El servidor queda escuchando en `http://localhost:8000`.
+El servidor queda corriendo en `http://localhost:8000`.
 
 ## Datos iniciales (seed)
 
